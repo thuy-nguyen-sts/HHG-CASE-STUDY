@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding: 4rem 6rem;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.btn {
+  width: 100px;
+}
+
+.btn-reset {
+  margin-right: 16px;
+}
+
+.navigate {
+  margin-bottom: 32px;
+  font-size: 20px;
+}
